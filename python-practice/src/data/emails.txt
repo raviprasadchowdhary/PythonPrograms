@@ -1,0 +1,12 @@
+Please contact us at support@example.com for help.
+For sales inquiries, reach out to sales@company.org.
+Technical support: tech.support@example.net
+General information: info@example.com
+
+You can also email john.doe@test.co.uk or jane.smith@demo.io for specific questions.
+
+Invalid emails (should not match):
+- notanemail@
+- @invaliddomain.com
+- missing@domain
+
